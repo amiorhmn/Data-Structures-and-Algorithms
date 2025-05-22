@@ -1,7 +1,5 @@
 # Data-Structures-and-Algorithms
-Implementation of various data structures and algorithms from scratch using Python.
-
-Here, I have implemented various common data structures and algorithms as suppliments to my learning and for the purpose of future reference.
+This repository contains my own implementations of various data structures and algorithms from scratch using Python.
 
 ## Features
 - Conventional as well as alternative implementations
